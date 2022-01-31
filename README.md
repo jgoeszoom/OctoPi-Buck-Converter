@@ -21,6 +21,8 @@ in KiCAD.
 
 ## Schematic
 
+![Schematic of Buck Converter](/imgs/Buck_Converter.png)
+
 ## PCB
 
 ## Render

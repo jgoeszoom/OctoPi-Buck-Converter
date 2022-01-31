@@ -6,9 +6,11 @@
 
   (title_block
     (title "LM22678-ADJ Buck Converter")
-    (date "2021-12-02")
+    (date "2022-01-30")
     (rev "1")
     (company "By Joseph Gozum")
+    (comment 1 "to power a raspberry pi from a 3D printer PSU")
+    (comment 2 "Custom PCB for LM22678-ADJ Buck converter")
   )
 
   (lib_symbols
@@ -1114,8 +1116,8 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 150621bf-9d47-4853-929e-cc5a8e825219)
   )
-  (text "Power In\n" (at 34.29 158.75 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
+  (text "Power In\n" (at 34.29 133.35 0)
+    (effects (font (size 1.5 1.5) (thickness 0.3) bold) (justify left bottom))
     (uuid 41936bf3-9838-49f9-8042-d362149b291b)
   )
   (text "This is a downstream port\nsupplying power to a \nconnected device"
@@ -1123,12 +1125,12 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 42593c2b-7edd-42d7-b8d0-98138a5a66a7)
   )
-  (text "Power Out\n" (at 194.31 130.81 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
+  (text "Power Out\n" (at 194.31 35.56 0)
+    (effects (font (size 1.5 1.5) (thickness 0.3) bold) (justify left bottom))
     (uuid 4ee68f96-aa95-4b36-8769-b21a33f9c9bb)
   )
-  (text "Main Circuit" (at 34.29 130.81 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
+  (text "Main Circuit" (at 34.29 35.56 0)
+    (effects (font (size 1.5 1.5) (thickness 0.3) bold) (justify left bottom))
     (uuid 7c11be9e-7c4a-4dd8-b949-26ab6004bccc)
   )
 
