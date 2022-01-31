@@ -29,4 +29,6 @@ in KiCAD.
 
 ## Render
 
+![Render of Buck Converter](/imgs/Buck_Render.png)
+
 ## Bill-of-Materials
