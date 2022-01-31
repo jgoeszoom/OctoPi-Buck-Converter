@@ -1,0 +1,14 @@
+Comment,Designator,Footprint,LCSC Part Number
+10nF,Cbst1,Capacitor_SMD:C_0805_2012Metric,C83170
+10uF,"Cin1,Cin2",Capacitor_SMD:C_1210_3225Metric,C77102
+1uF,Cinx1,Capacitor_SMD:C_2220_5650Metric,C2220
+100uF,Cout1,Capacitor_SMD:CP_Elec_6.3x5.9,C136275
+440mV,D1,Diode_SMD:D_SMC,C506645
+Screw_Terminal_01x02,J1,TerminalBlock:TerminalBlock_bornier-2_P5.08mm,
+USB4125-GF-A_REVA2,J2,USB-C-6pin:GCT_USB4125-GF-A_REVA2,
+8.2uH,L1,Inductor_SMD:L_Vishay_IHLP-2525,C506576
+10kOhms,"R1,R2",Resistor_SMD:R_0603_1608Metric,C25804
+1kOhm,Rfb1,Resistor_SMD:R_0805_2012Metric,C110774
+3.01kOhm,Rfb2,Resistor_SMD:R_0603_1608Metric,C137732
+TestPoint,"TP1,TP2,TP3",TestPoint:TestPoint_Loop_D2.50mm_Drill1.0mm,
+LM22678TJ-ADJ,U1,LM22678-ADJ:LM22678TJE-ADJ&slash_NOPB,C39998

@@ -1,0 +1,18 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+Cbst1,10nF,C_0805_2012Metric,134.62,-114.681,0,top
+Cin1,10uF,C_1210_3225Metric,122.298,-104.8535,0,top
+Cin2,10uF,C_1210_3225Metric,127.127,-104.8535,0,top
+Cinx1,1uF,C_2220_5650Metric,127.381,-111.242,-90,top
+Cout1,100uF,CP_Elec_6.3x5.9,153.924,-103.118,90,top
+D1,440mV,D_SMC,146.4,-103.251,90,top
+J1,Screw_Terminal_01x02,TerminalBlock_bornier-2_P5.08mm,119.253,-110.236,-90,top
+J2,USB4125-GF-A_REVA2,GCT_USB4125-GF-A_REVA2,163.576,-107.823,90,top
+L1,8.2uH,L_Vishay_IHLP-2525,146.431,-114.427,90,top
+R1,10kOhms,R_0603_1608Metric,160.528,-114.173,180,top
+R2,10kOhms,R_0603_1608Metric,160.528,-101.473,0,top
+Rfb1,1kOhm,R_0805_2012Metric,151.765,-116.4105,90,top
+Rfb2,3.01kOhm,R_0603_1608Metric,151.765,-111.76,-90,top
+TP1,TestPoint,TestPoint_Loop_D2.50mm_Drill1.0mm,116.459,-104.775,0,top
+TP2,TestPoint,TestPoint_Loop_D2.50mm_Drill1.0mm,127.381,-117.475,0,top
+TP3,TestPoint,TestPoint_Loop_D2.50mm_Drill1.0mm,155.702,-110.871,0,top
+U1,LM22678TJ-ADJ,LM22678TJE-ADJ&slash_NOPB,136.646,-103.6634,0,top
