@@ -1,3 +1,5 @@
 # Untracked files:
 Buck_Converter-backups/
 Buck_Converter-gerbers/
+*.zip
+*.svg
