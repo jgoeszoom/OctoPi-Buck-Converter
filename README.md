@@ -32,3 +32,23 @@ in KiCAD.
 ![Render of Buck Converter](/imgs/Buck_Render.png)
 
 ## Bill-of-Materials
+
+| References | Value | Footprint | Quantity |
+| ---------- | ----- | --------- | -------- |
+| R1, R2     | 10kOhms   | 0603      | 2        |
+| L1         | 8.2uH | IHLP-2525 | 1        | 
+| D1         | 440mV | SMC       | 1        |
+| U1         | LM22678J-ADJ | -  | 1        |
+| TP1-TP3    | Testpoint | 1.0mm hole | 3   |
+| Cin1-Cin2  | 10uF  | 2220      | 2        |
+| Cbst1      | 10nF  | 0805      | 1        |
+| Cinx1      | 1uF   | 2220      | 1        |
+| Cout1      | 100uF | 6.3x5.9mm | 1        |
+| Rfb1       | 1kOhm | 0805      | 1        |
+| Rfb2       | 3.01kOhm | 0603   | 1        |
+| J1         | 1x2 Screw Terminal | P5.08mm | 1 |
+| J2         | USB-C | -         | 1        |
+
+In the iBOM directory is an HTML file that when opened shows a rendered 
+view of the PCB next to the BOM. When you hover over BOM elements, the corresponding
+part or trace is highlighted on the PCB. 
