@@ -3,3 +3,13 @@ Buck_Converter-backups/
 Buck_Converter-gerbers/
 *.zip
 *.svg
+Buck_Converter.sch
+Buck_Converter.sch-bak
+Buck_Converter.kicad_pcb-bak
+Buck_Converter
+Buck_Converter.xml
+Buck_Converter_BOM.csv
+Buck_Converter-bottom-pos.csv
+Buck_Converter-top-pos.csv
+
+
